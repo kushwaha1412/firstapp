@@ -15,5 +15,6 @@ public class Test {
 		HelloClass clas = (HelloClass)beanFactory.getBean("studentbean");
 		clas.displayName();
 	}
+// this is the change i have done 
 
 }
